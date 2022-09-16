@@ -1,1 +1,3 @@
 es es una prueba de git.
+ 
+ ya se lo algunos comandos, gracias ala practicas:
