@@ -1,3 +1,5 @@
 es es una prueba de git.
  
- ya se lo algunos comandos, gracias ala practicas:
+ya se algunos comandos, gracias ala practicas.
+
+aun hay mas!!.
