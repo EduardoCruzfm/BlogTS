@@ -6,3 +6,5 @@ aun hay mas!!.
 
 para salir cuando no comentas entre "" el commit
 es  ESC +SHIFT (MAYUS) + ZZ.
+
+son muchos comandos.
