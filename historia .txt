@@ -4,5 +4,5 @@ ya se algunos comandos, gracias ala practicas.
 
 aun hay mas!!.
 
-para salir cuanso no comentas entre "" el commit
+para salir cuando no comentas entre "" el commit
 es  ESC +SHIFT (MAYUS) + ZZ.
