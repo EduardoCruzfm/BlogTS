@@ -9,4 +9,6 @@ es  ESC +SHIFT (MAYUS) + ZZ.
 
 Master 1
 
+Master 2
+
 son muchos comandos.
