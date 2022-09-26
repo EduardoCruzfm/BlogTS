@@ -3,3 +3,4 @@
 
 ## En el auto Torino TS
  * enfocado en aprender con gustos cotidianos.
+ * Aprendiendo algo nuevo cada ida.
